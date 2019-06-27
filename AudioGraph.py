@@ -1,3 +1,5 @@
+#Code from Website: https://www.swharden.com/wp/2016-07-19-realtime-audio-visualization-in-python/
+
 import pyaudio
 import numpy as np
 import pylab
